@@ -9,7 +9,7 @@ import edu.wpi.first.wpilibj.shuffleboard.ShuffleboardTab;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 public class GraphSubsystem extends SubsystemBase {
     NetworkTableEntry P,I,D;
-  /** Creates a new ExampleSubsystem. */
+ 
     public GraphSubsystem() {
         
         setupShuffleboard();
